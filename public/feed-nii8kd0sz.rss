@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Feed</title>
+    <link>https://flipboard.com/@raimoseero/feed-nii8kd0sz</link>
+    <atom:link href="https://flipboard.com/@raimoseero/feed-nii8kd0sz.rss" rel="self" type="application/rss+xml" />
+    <description></description>
+    <pubDate>Sun, 17 Feb 2019 16:55:37 GMT</pubDate>
+    <generator>Flipboard</generator>
+    <item>
+      <title>Next vs Gatsby? : reactjs</title>
+      <link>https://www.reddit.com/r/reactjs/comments/992n2r/next_vs_gatsby/</link>
+      <guid isPermaLink="false">flipboard-4Wue7hrGRYONzIixYXpezQ:a:1376366263-1550161452</guid>
+      <pubDate>Thu, 14 Feb 2019 16:24:12 GMT</pubDate>
+      <description>I am trying to decide whether to build my website in Next or Gatsby and would lik your opinions please.&#x26;lt;p&#x26;gt;The app I am looking to build is a job …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>What's new in Gatsby v2</title>
+      <link>https://www.gatsbycentral.com/whats-new-in-gatsby-v2</link>
+      <guid isPermaLink="false">flipboard-ugshdB_HQryZ0T4--GAlmA:a:1376366263-1550161096</guid>
+      <pubDate>Thu, 14 Feb 2019 16:18:16 GMT</pubDate>
+      <description>Gatsby v2 is in beta. Awesome. What does that mean? What changes come with v2?&#x26;lt;p&#x26;gt;&#x26;lt;b&#x26;gt;tl;dr&#x26;lt;/b&#x26;gt; - Gatsby v2 brings better data loading which supports giant …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Using Gatsby for a web app with dynamic content — A case study</title>
+      <link>https://blog.hasura.io/building-a-dynamic-listing-web-app-with-pagination-and-dynamic-pages-using-gatsby-2ddee9ec2dc3/</link>
+      <guid isPermaLink="false">flipboard-Yx3NTw8oRtK5Majhdcdwdg:a:1376366263-1550160280</guid>
+      <pubDate>Thu, 14 Feb 2019 16:04:40 GMT</pubDate>
+      <description>This is a case study of how we can use a static site generator like Gatsby to build out a web app with dynamic content.&#x26;lt;p&#x26;gt;TL;DR&#x26;lt;p&#x26;gt;Here is a quick summary …</description>
+      <media:content url="https://blog.hasura.io/content/images/downloaded_images/building-a-dynamic-listing-web-app-with-pagination-and-dynamic-pages-using-gatsby-2ddee9ec2dc3/1-noDPnrqsB1RCLhlHLJFAfg.png" medium="image" type="image/png" width="800" height="484" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>ASP.NET Core</title>
+      <link>https://miniprofiler.com/dotnet/AspDotNetCore</link>
+      <guid isPermaLink="false">flipboard-I9VOaD5sQlaNRqSdaIB2EA:a:1376366263-1549967372</guid>
+      <pubDate>Tue, 12 Feb 2019 10:29:32 GMT</pubDate>
+      <description>If you’d rather learn by example, sample apps are available. The ASP.NET Core sample is here, with the important bits in Startup.cs.&#x26;lt;p&#x26;gt;Installation and …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Understanding When to use RabbitMQ or Apache Kafka</title>
+      <link>https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka</link>
+      <guid isPermaLink="false">flipboard-0bx6c0r7Tvqn6tZn3vxPNw:a:1376366263-1549959006</guid>
+      <pubDate>Tue, 12 Feb 2019 08:10:06 GMT</pubDate>
+      <author>Pieter Humphrey</author>
+      <description>How do humans make decisions? In everyday life, emotion is often the circuit-breaking factor in pulling the trigger on a complex or overwhelming …</description>
+      <media:content url="https://lh4.googleusercontent.com/7b_8lfPpsZ0OPFuRWOVxcmJ1pZw0Bv8jHT-afdmZ8R31pkF0UmNetRtB989k8E7li7jAvL82sa_iB_uNO_scfWZjrAWkgTmSrjELcezMbva3IxqkQ2jrwPlw-S4h55HH_MHDxPUb" medium="image" width="708" height="364" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>E-commerce CMS</title>
+      <link>https://cms30.canner.io/demo/08-ecommerce/cms/products/products2</link>
+      <guid isPermaLink="false">flipboard---mOk_eqScWMpog6R4OEKA:a:1376366263-1549662857</guid>
+      <pubDate>Fri, 08 Feb 2019 21:54:17 GMT</pubDate>
+      <description></description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>'Now the reality is hitting them, and they're freaking out': The National Enquirer's former LA bureau chief says the tabloid is in over its head with Jeff Bezos</title>
+      <link>https://www.businessinsider.com/national-enquirer-la-chief-tabloid-jeff-bezos-scandal-jerry-george-2019-2</link>
+      <guid isPermaLink="false">flipboard-30Mb32RDRPWzAr12Pt04_Q:a:1376366263-1549655426</guid>
+      <pubDate>Fri, 08 Feb 2019 19:50:26 GMT</pubDate>
+      <author>David Choi</author>
+      <description>Jerry George, the former Los Angeles bureau chief of the National Enquirer, told CNN on Thursday night that the feud between Amazon CEO Jeff Bezos and American Media Inc., the publisher of the tabloid, was "baffling."&#x26;lt;p&#x26;gt;In a blog post published Thursday, Bezos said he launched an investigation led by …</description>
+      <media:content url="https://cdn.flipboard.com/businessinsider.com/406d1fd12ce652299e4d548e2866c98d5fff2844/original.jpg" medium="image" type="image/jpeg" width="750" height="375" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>No thank you, Mr. Pecker</title>
+      <link>https://medium.com/@jeffreypbezos/no-thank-you-mr-pecker-146e3922310f</link>
+      <guid isPermaLink="false">flipboard-Qa0mQrtBSIimqdbmNb6HkQ:a:1376366263-1549654688</guid>
+      <pubDate>Fri, 08 Feb 2019 19:38:08 GMT</pubDate>
+      <description>Jeff BezosBlockedUnblockFollowFollowing&#x26;lt;p&#x26;gt;Feb 7&#x26;lt;p&#x26;gt;Something unusual happened to me yesterday. Actually, for me it wasn’t just unusual — it was a first. I …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Error Tracking Software — JavaScript, Python, PHP, Ruby, more</title>
+      <link>https://sentry.io/welcome/</link>
+      <guid isPermaLink="false">flipboard-DNkdqjTzRrC4amhrO38XeQ:a:1376366263-1549575649</guid>
+      <pubDate>Thu, 07 Feb 2019 21:40:49 GMT</pubDate>
+      <description>Optimizely&#x26;lt;p&#x26;gt;DoorDash&#x26;lt;p&#x26;gt;AdRoll&#x26;lt;p&#x26;gt;Reddit&#x26;lt;p&#x26;gt;Find out about exceptions right away&#x26;lt;p&#x26;gt;Set up Sentry in minutes with just a few lines of code. Get notifications via …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Best Practices: Managing and Deploying Apps and Cookbooks</title>
+      <link>https://docs.aws.amazon.com/opsworks/latest/userguide/best-deploy.html</link>
+      <guid isPermaLink="false">flipboard-kNfjagDQRtG9dcXUIbmJ9Q:a:1376366263-1548833797</guid>
+      <pubDate>Wed, 30 Jan 2019 07:36:37 GMT</pubDate>
+      <author>Amazon</author>
+      <description>AWS OpsWorks Stacks deploys apps and cookbooks to each new instance from a remote repository. During an instance's lifetime, you often must update …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>A Developer's Guide to Headless E-Commerce</title>
+      <link>https://snipcart.com/blog/headless-ecommerce-guide</link>
+      <guid isPermaLink="false">flipboard-hlktKSiXTu6dnEvw_sJnrg:a:1376366263-1548796227</guid>
+      <pubDate>Tue, 29 Jan 2019 21:10:27 GMT</pubDate>
+      <author>humans.txt</author>
+      <description>This post has been a long time in the making.&#x26;lt;p&#x26;gt;The hours of experimentation with dozens of headless CMS &#x26; frontend frameworks are finally paying …</description>
+      <media:content url="https://snipcart.com/media/203629/pana-vasquez-381083.jpg" medium="image" type="image/jpeg" width="1" height="1" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Why Colleges Aren't Preparing Students for Work - and What Employers Should Do About It</title>
+      <link>https://talentculture.com/why-colleges-arent-preparing-students-for-work-and-what-employers-should-do-about-it/</link>
+      <guid isPermaLink="false">flipboard-iiIdMxR7TS-MX7VheZoReA:a:1376366263-1547579638</guid>
+      <pubDate>Tue, 15 Jan 2019 19:13:58 GMT</pubDate>
+      <author>January 15, 2019</author>
+      <description>Danny Iny dropped out of school at 15 to start a business. He also got an MBA at a top business school in Canada. Guess which decision he considers …</description>
+      <media:content url="https://talentculture.com/wp-content/uploads/2019/01/colleges.png" medium="image" type="image/png" width="976" height="650" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Node.js Open Source of the Month (v.Dec 2018)</title>
+      <link>https://medium.mybridge.co/node-js-open-source-of-the-month-v-dec-2018-c23c9de324f3</link>
+      <guid isPermaLink="false">flipboard-MXrua-IyRMeD25ri7bCEkw:a:1376366263-1547231657</guid>
+      <pubDate>Fri, 11 Jan 2019 18:34:17 GMT</pubDate>
+      <description>MybridgeBlockedUnblockFollowFollowing&#x26;lt;p&#x26;gt;Jan 2&#x26;lt;p&#x26;gt;For the past month&#x26;lt;b&#x26;gt;,&#x26;lt;/b&#x26;gt; we ranked nearly 250 Node.js Open Source Projects to pick the Top 10.&#x26;lt;p&#x26;gt;We compared …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/2000/0*QxaC4PFQs_O9tAiA.jpg" medium="image" type="image/jpeg" width="1380" height="535" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Best document management software of 2019</title>
+      <link>https://www.techradar.com/best/best-document-management-software</link>
+      <guid isPermaLink="false">flipboard-qDF2YZ1DQVSn2AELZN0Ycg:a:1376366263-1547195971</guid>
+      <pubDate>Fri, 11 Jan 2019 08:39:31 GMT</pubDate>
+      <author>By Nicholas Fearn, Steve McCaskill, Jonas DeMuro Business software</author>
+      <description>1. Templafy&#x26;lt;p&#x26;gt;2. M-Files&#x26;lt;p&#x26;gt;3. Docuware&#x26;lt;p&#x26;gt;4. MasterControl Document Control&#x26;lt;p&#x26;gt;5. XaitPorter&#x26;lt;p&#x26;gt;&#x26;lt;b&#x26;gt;Read on for our detailed analysis of each system&#x26;lt;/b&#x26;gt;&#x26;lt;p&#x26;gt;In this era of Green IT …</description>
+      <media:content url="https://cdn.mos.cms.futurecdn.net/6jRQcmkz7dFo43sJC3tcFH-1200-80.jpg" medium="image" type="image/jpeg" width="900" height="505" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>A regex cheatsheet for all those regex haters (and lovers) 👀</title>
+      <link>https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1</link>
+      <guid isPermaLink="false">flipboard-IH7B_0AmSVKQZyEKxGjXTA:a:1376366263-1547186981</guid>
+      <pubDate>Fri, 11 Jan 2019 06:09:41 GMT</pubDate>
+      <author>Catherine 👩🏻‍💻</author>
+      <description>I have always stayed far away from regex. In one of my first year computer science labs, there was an exercise that involved regex. I think that was …</description>
+      <media:content url="https://i.giphy.com/media/czoS1CAP2YZBS/giphy.gif" medium="image" type="image/gif" width="500" height="200" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Zabbix, AWS and Auto Registration</title>
+      <link>https://devopstrailer.wordpress.com/2015/06/11/zabbix-aws-and-auto-registration/</link>
+      <guid isPermaLink="false">flipboard-uV82IPh-T8qxvisKBWITFQ:a:1376366263-1546442701</guid>
+      <pubDate>Wed, 02 Jan 2019 15:25:01 GMT</pubDate>
+      <author>Moshe Nadler</author>
+      <description>Moshe Nadler&#x26;lt;p&#x26;gt;One of the things I love the most with AWS is auto-scaling. You choose an AMI, set some parameters and AWS will spin instances up and …</description>
+      <media:content url="https://devopstrailer.files.wordpress.com/2015/06/image-2.jpg" medium="image" type="image/jpeg" width="1600" height="572" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>In 2018 the ticketing industry finally killed the ‘sold out’ show</title>
+      <link>https://techcrunch.com/2018/12/31/in-2018-the-ticketing-industry-finally-killed-the-sold-out-show/</link>
+      <guid isPermaLink="false">flipboard-Tu0lX6z4TvOg6gcr-rFQlQ:a:1376366263-1546375761</guid>
+      <pubDate>Tue, 01 Jan 2019 20:49:21 GMT</pubDate>
+      <author>Jesse Lawrence</author>
+      <description>Among the many myths that were laid low in 2018, perhaps none was as welcome to throngs of live event fans as the fantasy of the sold-out show. Indeed, as the ticket market has moved to adopt new technology the new-found transparency has had one prime victim: The Sellout.&#x26;lt;p&#x26;gt;The highest-profile …</description>
+      <media:content url="https://cdn.flipboard.com/techcrunch.com/14c064c2e9d732635af64839f00e3d7255b53195/original.jpg" medium="image" type="image/jpeg" width="601" height="400" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>How developers will work in 2019</title>
+      <link>https://thenextweb.com/dd/2019/01/01/how-developers-will-work-in-2019/</link>
+      <guid isPermaLink="false">flipboard-JmgY_Vr2TxqFrL9UBhj6rA:a:1376366263-1546374007</guid>
+      <pubDate>Tue, 01 Jan 2019 20:20:07 GMT</pubDate>
+      <author>Matthew Hughes</author>
+      <description>We’ve got a tradition here at TNW Towers. Every year around Christmas, we reach out to a selected cadre of developers and ask them how they see their craft changing in the year ahead. The insights are always fascinating, and this year is no exception.&#x26;lt;p&#x26;gt;This year, we chewed the fat with a swathe of …</description>
+      <media:content url="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/01/clement-h-544786-unsplash.jpg" medium="image" type="image/jpeg" width="1230" height="820" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Why Prime?</title>
+      <link>https://github.com/birkir/prime</link>
+      <guid isPermaLink="false">flipboard-SGosfAzNTWKqLXKckGZhaw:a:1376366263-1545947869</guid>
+      <pubDate>Thu, 27 Dec 2018 21:57:49 GMT</pubDate>
+      <author>birkir</author>
+      <description>README.md&#x26;lt;p&#x26;gt;&#x26;lt;b&#x26;gt;Open Source GraphQL CMS&#x26;lt;/b&#x26;gt;&#x26;lt;p&#x26;gt;Prime is a standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.&#x26;lt;p&#x26;gt;There are a lot of …</description>
+      <media:content url="https://camo.githubusercontent.com/717fb4826c405b671a2db843fd340fef8c73fdd2/68747470733a2f2f692e696d6775722e636f6d2f794937756e72662e706e67" medium="image" width="2784" height="1636" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>The Best Paper Airplane: How to Make a Paper Airplane | The Art of Manliness</title>
+      <link>https://www.artofmanliness.com/articles/how-to-make-the-worlds-best-paper-airplanes/</link>
+      <guid isPermaLink="false">flipboard-yBknbqbERDSeZVDxnGfIqA:a:1376366263-1545932993</guid>
+      <pubDate>Thu, 27 Dec 2018 17:49:53 GMT</pubDate>
+      <author>Jeremy Anderberg</author>
+      <description>There are many skills fathers should pass on to their children: how to ride a bike, how to skip a stone, and of course, how to make a paper airplane. …</description>
+      <media:content url="https://content.artofmanliness.com/uploads/2012/02/newman.jpg" medium="image" type="image/jpeg" width="410" height="604" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Which Node.js Frameworks To Use in 2019?</title>
+      <link>https://hackernoon.com/which-node-js-frameworks-to-use-in-2019-43031d95c923?gi=b4801488647b</link>
+      <guid isPermaLink="false">flipboard-Z6rVt_z7R1q-B7DK6TQ9iw:a:1376366263-1545312779</guid>
+      <pubDate>Thu, 20 Dec 2018 13:32:59 GMT</pubDate>
+      <description>Mantra MalhotraBlockedUnblockFollowFollowing&#x26;lt;p&#x26;gt;Dec 20&#x26;lt;p&#x26;gt;With the arrival of Node.js, JavaScript has come to the forefront. It is likely to happen, since it …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/1600/0*QmUWpoflJ8VFCW2G" medium="image" width="1140" height="500" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Microsoft's Hummingbird app uses AI to deliver a personalized news feed</title>
+      <link>https://thenextweb.com/apps/2018/12/14/microsofts-hummingbird-app-uses-ai-to-deliver-a-personalized-news-feed/</link>
+      <guid isPermaLink="false">flipboard-cVXi8MbmQo-zFIlD6MjW6A:a:1376366263-1544870561</guid>
+      <pubDate>Sat, 15 Dec 2018 10:42:41 GMT</pubDate>
+      <author>Ivan Mehta</author>
+      <description>Microsoft has quietly released an AI-based news app called Hummingbird on Google Play and Apple’s App Store. It’s currently available only in the US, and is the company’s second news aggregation app.&#x26;lt;p&#x26;gt;Hummingbird lets you pick your favorite topics and subtopics from a list, and make a curated feed of …</description>
+      <media:content url="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/Microsoft.png" medium="image" type="image/png" width="1000" height="515" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>4 Cloud Stocks Besides Microsoft That Can Win</title>
+      <link>https://www.investopedia.com/4-cloud-stocks-besides-microsoft-that-can-win-4580525</link>
+      <guid isPermaLink="false">flipboard-pVIpWjp1TYOwVT4iB0ORCw:a:1376366263-1544870332</guid>
+      <pubDate>Sat, 15 Dec 2018 10:38:52 GMT</pubDate>
+      <author>Matthew Johnston</author>
+      <description>Investors looking for growth but concerned about slower U.S. earnings should look to the cloud, where lesser known names like Pure Storage Inc. …</description>
+      <media:content url="https://www.investopedia.com/thmb/arljiGQysYAYtss3fEZQJpyhQak=/1000x667/filters:fill(auto,1)/trophy-5c135bddc9e77c0001183e09.jpg" medium="image" type="image/jpeg" width="1000" height="667" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Over 65 percent of new developers are self-taught. I’m surprised it’s not 100 percent</title>
+      <link>https://thenextweb.com/dd/2018/12/11/over-65-percent-of-new-developers-are-self-taught-im-surprised-its-not-100-percent/</link>
+      <guid isPermaLink="false">flipboard-9vDch8vkScymY0AqvGB21Q:a:1376366263-1544564495</guid>
+      <pubDate>Tue, 11 Dec 2018 21:41:35 GMT</pubDate>
+      <author>Matthew Hughes</author>
+      <description>HackerRank today published the 2018 edition of its Student Developer Report. The survey, which looks at educational and language trends across over 10,000 students, has some interesting findings, the most fascinating of which is that over 65 percent of students are self-taught.&#x26;lt;p&#x26;gt;27.39 percent said …</description>
+      <media:content url="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/fatos-bytyqi-535528-unsplash.jpg" medium="image" type="image/jpeg" width="1230" height="820" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Tech Trends Showdown🏆: React vs Angular vs Vue</title>
+      <link>https://medium.com/zerotomastery/tech-trends-showdown-react-vs-angular-vs-vue-61ffaf1d8706</link>
+      <guid isPermaLink="false">flipboard-dr5arMSURBKiMrL8bhk70A:a:1376366263-1544475117</guid>
+      <pubDate>Mon, 10 Dec 2018 20:51:57 GMT</pubDate>
+      <description>Andrei NeagoieBlockedUnblockFollowFollowing&#x26;lt;p&#x26;gt;Dec 10&#x26;lt;p&#x26;gt;Wait, didn’t I already write about this? Well…yes, but too many of you complained about not giving …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/2000/1*wV-bWrxCNOXjm5QIy7SHpg.png" medium="image" type="image/png" width="2000" height="1187" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>How To Build A Real-Time App With GraphQL Subscriptions On Postgres</title>
+      <link>https://www.smashingmagazine.com/2018/12/real-time-app-graphql-subscriptions-postgres/</link>
+      <guid isPermaLink="false">flipboard-7uvj_uJ0QSmoZgYkjUg-Wg:a:1376366263-1544475018</guid>
+      <pubDate>Mon, 10 Dec 2018 20:50:18 GMT</pubDate>
+      <author>Sandip Devarkonda is a product manager, helping build cutting edge developer tools at Hasura. He dabbles in technology forecasts and predicts that GraphQL will … More about Sandip</author>
+      <description>14 min read&#x26;lt;p&#x26;gt;Share on Twitter or LinkedIn&#x26;lt;p&#x26;gt;Smashing Newsletter&#x26;lt;p&#x26;gt;Upgrade your inbox and get our editors’ picks twice a month.&#x26;lt;p&#x26;gt;With useful tips for web devs. …</description>
+      <media:content url="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6796af2f-9933-45bd-b91a-df57adf5b8a9/schema-design-realtime-app.png" medium="image" type="image/png" width="3264" height="1187" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>You need API management help: 11 open-source tools to consider</title>
+      <link>https://techbeacon.com/you-need-api-management-help-11-open-source-tools-consider?es_p=8029696</link>
+      <guid isPermaLink="false">flipboard-iaLPTUewQ56dU0cLUWIuvQ:a:1376366263-1544133120</guid>
+      <pubDate>Thu, 06 Dec 2018 21:52:00 GMT</pubDate>
+      <author>Bill Doerrfeld</author>
+      <description>There is a lot to consider when providing an API. From how the service is managed to style governance, the developer portal, security, gateway, and …</description>
+      <media:content url="https://techbeacon.com/sites/default/files/styles/social/public/field/image/api-management-open-sign.jpg?itok=I83AXWn_" medium="image" type="image/jpeg" width="1024" height="480" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Software Architecture Patterns</title>
+      <link>https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html</link>
+      <guid isPermaLink="false">flipboard-ouzOcKogS5G_FDu_DxtPyA:a:1376366263-1544131866</guid>
+      <pubDate>Thu, 06 Dec 2018 21:31:06 GMT</pubDate>
+      <description>Key Concepts&#x26;lt;p&#x26;gt;Notice in Figure 1-2 that each of the layers in the architecture is marked as being &#x26;lt;i&#x26;gt;closed&#x26;lt;/i&#x26;gt;. This is a very important concept in the …</description>
+      <media:content url="https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0103.png" medium="image" type="image/png" width="1376" height="1138" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>DevOps in 3 Sentences - DEV Community 👩‍💻👨‍💻</title>
+      <link>https://dev.to/ashokisaac/devops-in-3-sentences-17c4</link>
+      <guid isPermaLink="false">flipboard-IvFCj464SByNDvYHQczPOg:a:1376366263-1543767543</guid>
+      <pubDate>Sun, 02 Dec 2018 16:19:03 GMT</pubDate>
+      <author>Ash Isaac</author>
+      <description>DevOps is a hot topic right now, and amidst the marketing hype and buzzword-frenzy it can be hard to get to the essence of the concepts it introduces.&#x26;lt;p&#x26;gt;…</description>
+      <media:content url="https://res.cloudinary.com/practicaldev/image/fetch/s---dbI8WY9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://aisaac.io/content/images/2018/11/DevOps.jpg" medium="image" type="image/jpeg" width="810" height="648" />
+      <category domain=""></category>
+    </item>
+    </channel>
+</rss>

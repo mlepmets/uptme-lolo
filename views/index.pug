@@ -1,0 +1,31 @@
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    meta(http-equiv='Content-Type', content='text/html; charset=UTF-8')
+    meta(http-equiv='X-UA-Compatible', content='ie=edge')
+    link(rel='stylesheet', href='/styles/indexStyle.css' content='text/css')
+    title LOLO
+  body
+    div(class='header')
+      p
+        em LOLO
+    div(class='container')
+      div(class='flexContainer')
+        each item in feed.items
+          div(class='itemBox')
+            div(data-fullarticle=item.link class='newsItem')
+              if item.mediaContent
+                img(src='' + item.mediaContent class='thumbnail')
+              h2(class='itemTitle') #{item.title}
+              p(class='itemDescription') #{item.description}
+    div(class='modal')
+      div(class='modalHeader')
+        span(class='closeButton') &times;
+      div(class='modalContent')
+
+        div(class='articleContent')
+      div(class='closeButtonMobile')
+        span Close
+    script(src='/js/indexScript.js')
