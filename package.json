@@ -15,6 +15,7 @@
     "express": "^4.16.4",
     "fixify": "^1.0.0",
     "pug": "^2.0.3",
+    "request": "^2.88.0",
     "rss-parser": "^3.6.2",
     "striptags": "^3.1.1"
   }
