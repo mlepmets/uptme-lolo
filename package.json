@@ -1,6 +1,7 @@
 {
   "engines": {
-    "node": "11.9.0"
+    "node": "11.9.0",
+    "npm": "6.5.0"
   },
   "name": "uptme-lolo",
   "version": "1.0.0",
