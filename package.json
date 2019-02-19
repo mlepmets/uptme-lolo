@@ -20,6 +20,7 @@
     "fixify": "1.0.0",
     "pug": "2.0.3",
     "rss-parser": "3.6.2",
-    "striptags": "3.1.1"
+    "striptags": "3.1.1",
+    "request": "2.81.0"
   }
 }
