@@ -15,11 +15,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@postlight/mercury-parser": "^2.0.0",
-    "express": "^4.16.4",
-    "fixify": "^1.0.0",
-    "pug": "^2.0.3",
-    "rss-parser": "^3.6.2",
-    "striptags": "^3.1.1"
+    "@postlight/mercury-parser": "2.0.0",
+    "express": "4.16.4",
+    "fixify": "1.0.0",
+    "pug": "2.0.3",
+    "rss-parser": "3.6.2",
+    "striptags": "3.1.1"
   }
 }
