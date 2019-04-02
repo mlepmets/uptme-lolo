@@ -1,6 +1,5 @@
 const express = require('express')
 const router = express.Router()
-// const rssParser = require('rss-parser')
 const rssURL = 'https://flipboard.com/@raimoseero/feed-nii8kd0sz.rss'
 const rssParser = require('../controllers/rssParser')
 const mercuryParser = require('../controllers/mercuryController')
